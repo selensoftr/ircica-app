@@ -6,7 +6,7 @@ import requests
 import json
 
 github_url = (
-    "https://raw.githubusercontent.com/grocerist/grocerist-data/main/json_dumps/"
+    "https://raw.githubusercontent.com/selensoftr/ircica-data/main/json_dumps/"
 )
 
 file_list = [
